@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*OlyA47-o7YINcaYzLDe9yQ.gif" alt="DNS-BOMBER Banner" width="100%" style="max-width:700px; height:auto;">
-</p>
-
 <h1 align="center">DNS-BOMBER 🚀🧨</h1>
 <p align="center"><i>High-speed multi-protocol attack simulation tool for penetration testing and network analysis.</i></p>
 
