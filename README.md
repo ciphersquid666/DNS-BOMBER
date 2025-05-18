@@ -1,6 +1,8 @@
 <h1 align="center">DNS-BOMBER 🚀🧨</h1>
 <p align="center"><i>High-speed multi-protocol attack simulation tool for penetration testing and network analysis.</i></p>
 
+![DNS-BOMBER Banner](https://media.tenor.com/cVngTka-EgMAAAAM/bombing-my-way.gif)
+
 ---
 
 > ⚠️ **DISCLAIMER**  
