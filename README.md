@@ -15,7 +15,7 @@
 
 - 🔁 **Multi-threaded attack execution**
 - 🌐 **HTTP/HTTPS flood** with randomized headers & spoofed IPs
-- 🧬 **DNS amplification simulation**
+- 🧬 **DNS amplification**
 - 🔌 **TCP/UDP payload flooding**
 - 🛠️ **IPv4 and IPv6 spoofing**
 - 📝 **Color-coded logging** for better readability
