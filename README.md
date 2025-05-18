@@ -111,6 +111,8 @@ See the [LICENSE](LICENSE) file for details.
 **Cipher Squid**  
 GitHub: [@ciphersquid666](https://github.com/ciphersquid666)
 
+<img src="https://i.pinimg.com/originals/6d/0b/35/6d0b35aaa3378482e946550c5ed30586.gif" alt="DNS-BOMBER Banner" style="display:block; margin-left:auto; margin-right:auto; width:100%; max-width:900px; height:auto;">
+
 > Keep your tests ethical. Stay legal. Hack responsibly.
 
 ---
